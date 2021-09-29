@@ -13,3 +13,4 @@ return [
      */
     'package' => env('RAJAONGKIR_PACKAGE', 'starter'),
 ];
+?>
